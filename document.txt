@@ -1,0 +1,9 @@
+We will write a function names as apartmentHunting with two parametarised arguments of blocks and reqs
+and we will declare two variables i.e scores and distance with let keyword and
+we will create a Loop to calculate how many requirements are fulfilled in different blocks and add the number in scores array
+we use maxelement for checking the maximum element in the scores array and we use numberofmaxelement 
+Variable to check how many number of maximum elements exist in the scores array
+ Loop to find the block which has the greatest number of element in scores array
+ Loop to find the block which has the greatest number of element in scores array
+Condition to check if distance is negative and replace it with its absolute value
+Loop to check the least distance of optimum block
